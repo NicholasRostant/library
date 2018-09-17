@@ -8,4 +8,5 @@
 |You Share Everything With Your Bestie. Even Brain Waves. | [Link](https://www.nytimes.com/2018/04/16/science/friendship-brain-health.html) | 2018-04-18 | Article | Psychology, Research, Society | Research demonstrating enhanced similarities in brain response between individuals with close relationships |
 |Has Wine Gone Bad? | [Link](https://www.theguardian.com/news/2018/may/15/has-wine-gone-bad-organic-biodynamic-natural-wine) | 2018-05-16 | Article | Food, Wine | Discussing the rise of 'Natural' wine producers. |
 |When is a nation not a nation? Somaliland’s dream of independence  | [Link](https://www.theguardian.com/news/2018/jul/20/when-is-a-nation-not-a-nation-somalilands-dream-of-independence) | 2018-07-23 | Article | Long, Geopolitics | A look at Somaliland's struggle for recognition in the face of indifference |
+|Searching for Chocolate's Roots, and Enemies in Colombia| [Link](https://www.scientificamerican.com/article/searching-for-chocolates-roots-and-enemies-in-colombias-wilderness/) | 2018-09-17 | Article | Long, Food | Struggles facing the modern farming of Cocoa in Columbia |
 
