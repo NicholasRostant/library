@@ -10,5 +10,6 @@
 |When is a nation not a nation? Somaliland’s dream of independence  | [Link](https://www.theguardian.com/news/2018/jul/20/when-is-a-nation-not-a-nation-somalilands-dream-of-independence) | 2018-07-23 | Article | Long, Geopolitics | A look at Somaliland's struggle for recognition in the face of indifference |
 |Searching for Chocolate's Roots, and Enemies in Colombia| [Link](https://www.scientificamerican.com/article/searching-for-chocolates-roots-and-enemies-in-colombias-wilderness/) | 2018-09-17 | Article | Long, Food | Struggles facing the modern farming of Cocoa in Columbia |
 |On Holy Wars and a Plea for Peace| [Link](http://www.ietf.org/rfc/ien/ien137.txt) | 2018-10-11 | Article | Long, Embedded Software, Software | The original 1980 article by Danny Cohen on the Endianness of data |
+|Inside the C Standard Library| [Link](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html) | 2019-01-20 | Article | Long, Embedded Software, Software | A deep dive on the structure and contents of the C standard library |
 
 
