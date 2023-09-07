@@ -10,6 +10,14 @@
 |When is a nation not a nation? Somaliland’s dream of independence  | [Link](https://www.theguardian.com/news/2018/jul/20/when-is-a-nation-not-a-nation-somalilands-dream-of-independence) |  Article | Long, Geopolitics | A look at Somaliland's struggle for recognition in the face of indifference |
 |Searching for Chocolate's Roots, and Enemies in Colombia| [Link](https://www.scientificamerican.com/article/searching-for-chocolates-roots-and-enemies-in-colombias-wilderness/) | Article | Long, Food | Struggles facing the modern farming of Cocoa in Columbia |
 |On Holy Wars and a Plea for Peace| [Link](http://www.ietf.org/rfc/ien/ien137.txt) | Article | Long, Embedded Software, Software | The original 1980 article by Danny Cohen on the Endianness of data |
+|The Wizards of Mind Control| [Link](https://nautil.us/the-wizards-of-mind-control-238543/) | Article | Science | How parasites adapt to cause psychological effects in hosts |
 |Inside the C Standard Library| [Link](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html) | Article | Long, Embedded Software, Software | A deep dive on the structure and contents of the C standard library |
+|The Lies in Your Grocery Store| [Link](https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store) | Article | Long, Oddball, Law | Following America's most prolific lawyer in the domain of misleading food labelling |
+|The Jargon File| [Link](http://catb.org/jargon/html/) | Collection | Software, Humour, History | The classic compilation of hacker culture |
+|The Mystery of the Bloomfield Bridge| [Link](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge) | Story | Oddball, History | The hunt for the origins of a pedistrian bridge in Minnesota |
+|Sound| [Link](https://ciechanow.ski/sound/) | Article | Software, Physics, Music | Bartosz Ciechanowski's incredible explination of the physics of sound |
+|The Last of the Fungus| [Link](https://nautil.us/the-last-of-the-fungus-370460/) | Article | Nature, Science | On the collection and cultivation of caterpillar fungus in the Himalayas |
+|Safe Design Rules| [Link](https://anthonyhobday.com/sideprojects/saferules/) | Article | Software, Design | Reliable rules for visual design |
+
 
 
