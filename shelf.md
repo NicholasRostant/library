@@ -18,6 +18,4 @@
 |Sound| [Link](https://ciechanow.ski/sound/) | Article | Software, Physics, Music | Bartosz Ciechanowski's incredible explination of the physics of sound |
 |The Last of the Fungus| [Link](https://nautil.us/the-last-of-the-fungus-370460/) | Article | Nature, Science | On the collection and cultivation of caterpillar fungus in the Himalayas |
 |Safe Design Rules| [Link](https://anthonyhobday.com/sideprojects/saferules/) | Article | Software, Design | Reliable rules for visual design |
-
-
-
+|Coffee in a can | [Link](https://one-from-nippon.ghost.io/coffee-in-a-can/) | Article | Food, History | History of canned coffee in Japan |
