@@ -20,3 +20,4 @@
 |Safe Design Rules| [Link](https://anthonyhobday.com/sideprojects/saferules/) | Article | Software, Design | Reliable rules for visual design |
 |Coffee in a can | [Link](https://one-from-nippon.ghost.io/coffee-in-a-can/) | Article | Food, History | History of canned coffee in Japan |
 |Game, set, sell | [Link](https://racquetmag.com/2023/09/06/game-set-sell/) | Article | Advertising, Long, History | On the commercial development of tennis |
+| Marin Mersenne on the Consolation of Sad Music | [Link](https://jhiblog.org/2023/09/06/marin-mersenne-on-the-consolation-of-sad-music/) | Think-piece | Music, Long, History | 16th century polymath Marin Mersenne's views on sad music |
