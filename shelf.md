@@ -23,3 +23,5 @@
 | Marin Mersenne on the Consolation of Sad Music | [Link](https://jhiblog.org/2023/09/06/marin-mersenne-on-the-consolation-of-sad-music/) | Think-piece | Music, Long, History | 16th century polymath Marin Mersenne's views on sad music |
 | St. Helena communications info | [Link](sainthelenaisland.info/communications.htm) | Collection | Oddball, travel | A comprehensive look at St Helena's communications links |
 | Slovenia's Beautiful Beehives Turn Apiaries Into Art | [Link](https://www.atlasobscura.com/articles/what-are-slovenian-beehouses) | Article | Travel, History | The unique construction of Slovenian beehives |
+| Color: From Hexcodes to Eyeballs | [Link](https://jamie-wong.com/post/color/) | Article | Science, Colour | Mapping light to visual response |
+
