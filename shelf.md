@@ -26,3 +26,4 @@
 | Color: From Hexcodes to Eyeballs | [Link](https://jamie-wong.com/post/color/) | Article | Science, Colour | Mapping light to visual response |
 | God Help Us, Let's Try To Understand AI Monosemanticity | [Link](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand) | Article | LLM, AI | Breaking down Anthropic's investigation into understanding LLM internal decisions |
 | The Many Lives of the Medieval Wound Man | [Link](https://publicdomainreview.org/essay/the-many-lives-of-the-medieval-wound-man/) | Essay | History, Medicine | The history and significance of the 'Wound Man' illustration in medieval medicine |
+| The Price of Potatoes and the Value of Compassion | [Link](https://cookingonabootstrap.com/2020/07/30/the-price-of-potatoes-and-the-value-of-compassion/) | Essay | Food, Society | Brilliant piece of writing conveying poverty in Britain |
