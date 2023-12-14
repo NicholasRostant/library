@@ -25,3 +25,4 @@
 | Slovenia's Beautiful Beehives Turn Apiaries Into Art | [Link](https://www.atlasobscura.com/articles/what-are-slovenian-beehouses) | Article | Travel, History | The unique construction of Slovenian beehives |
 | Color: From Hexcodes to Eyeballs | [Link](https://jamie-wong.com/post/color/) | Article | Science, Colour | Mapping light to visual response |
 | God Help Us, Let's Try To Understand AI Monosemanticity | [Link](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand) | Article | LLM, AI | Breaking down Anthropic's investigation into understanding LLM internal decisions |
+| The Many Lives of the Medieval Wound Man | [Link](https://publicdomainreview.org/essay/the-many-lives-of-the-medieval-wound-man/) | Essay | History, Medicine | The history and significance of the 'Wound Man' illustration in medieval medicine |
